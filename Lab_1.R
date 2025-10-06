@@ -1,3 +1,5 @@
+# Lab 1: Verification of Fisher’s Lemma (Independence of Mean & Variance)
+
 set.seed(123)
 mu <- 5; sigma <- 2; n <- 30; N_sim <- 1000
 
